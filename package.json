@@ -1,6 +1,6 @@
 {
   "name": "eosjs3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Modified General purpose library for the EOS blockchain.",
   "main": "lib/index.js",
   "files": [
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ganioc/eosjs2.git"
+    "url": "git+https://github.com/ganioc/eosjs3.git"
   },
   "keywords": [
     "EOS",
@@ -33,9 +33,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ganioc/eosjs2/issues"
+    "url": "https://github.com/ganioc/eosjs3/issues"
   },
-  "homepage": "https://github.com/ganioc/eosjs2#readme",
+  "homepage": "https://github.com/ganioc/eosjs3#readme",
   "devDependencies": {
     "babel-cli": "6.26.0",
     "babel-core": "6.26.3",
